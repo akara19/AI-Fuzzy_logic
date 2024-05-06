@@ -1,0 +1,2 @@
+- Untuk menggunakan fungsi-fungsi yang ada pada script ini, silahkan menggunakan Mysql
+- Script ini sudah di coba menggunakan Mysql Serve 5.7 Community Version
